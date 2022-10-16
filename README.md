@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently Studying Computer Engineering at IOE, WRC.
 - 🔭 I’m currently learning web development
-- 📫 How to reach me: [Facebook](https://www.facebook.com/anup.bashyal.16)
+- 📫 You can reach me on [Facebook](https://www.facebook.com/anup.bashyal.16)
 
